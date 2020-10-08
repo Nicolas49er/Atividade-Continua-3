@@ -12,7 +12,7 @@
 ##### Geral
 	git help
 	
-##### Comando específico
+##### man Comando específico
 	git help add
 	git help commit
 	git help <qualquer_comando_git>
